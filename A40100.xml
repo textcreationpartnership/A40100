@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of an undertaking of certain gentlemen in order to the suppressing of debauchery, and profaneness.</title>
+            <author>Fowler, Edward, 1632-1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40100</idno>
+            <idno type="STC">Wing F1727</idno>
+            <idno type="STC">ESTC R216813</idno>
+            <idno type="EEBO-CITATION">99828531</idno>
+            <idno type="PROQUEST">99828531</idno>
+            <idno type="VID">32960</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40100)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32960)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1965:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of an undertaking of certain gentlemen in order to the suppressing of debauchery, and profaneness.</title>
+                  <author>Fowler, Edward, 1632-1714.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Edward Fowler.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conduct of life --  Early works to 1800.</term>
+               <term>Ecclesiastical law --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32960:1" rendition="simple:additions"/>
+            <p>A Vindication OF AN UNDERTAKING OF Certain Gentlemen, In Order to the Suppreſſing of DEBAUCHERY, AND PROFANENESS.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the YEAR, 1692.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:32960:2"/>
+            <pb facs="tcp:32960:2"/>
+            <head>THE PREFACE.</head>
+            <p>THat which <hi>follows,</hi> had, for the ſubſtance of it, appear'd abroad before now, but for the ſtrange Imprudence of a Printer, and baſe treachery of a certain Licenſer; who was intruſted by him (wholly unawares to the <hi>Writer</hi>) with an imperfect Co<g ref="char:EOLhyphen"/>py, which was promiſed to be returned home again, to have added or altered what ſhould be thought fit.</p>
+            <p>And whoſoever ſhall be Offended at what is here Publiſhed, as tak<g ref="char:EOLhyphen"/>ing themſelves to be diſobliged by it, I aſſure them it is not written from the leaſt <hi>Ill-Will</hi> to any Perſon in the World, but from the great<g ref="char:EOLhyphen"/>eſt <hi>Good-Will;</hi> and that not onely to the beſt of
+<hi>Cauſes,</hi> but alſo to thoſe <hi>Men</hi> who are moſt like to be
+<hi>incenſed.</hi>
+            </p>
+            <p>Methinks I hear now our cautious Politico's asking, What ayls this Perſon to be thus Buſily Interpoſing in the Behalf of <hi>thoſe,</hi> who muſt needs by their extraordinary Zeal be Expoſing themſelves to the high Diſpleaſure of <hi>ſome,</hi> and the Cenſures of <hi>others,</hi> as a ſort of Hot-headed and Raſh Men? But if they'll vouchſafe to read what is here written, I hope they'll ſee no juſt Cauſe to Accuſe him of being Over-Buſy. But indeed, tho' the Apoſtle ſaith, <hi>It is good to be always zealouſly affected in a good thing:</hi> And tho' their cool Wiſdom<g ref="char:EOLhyphen"/>ſhips can be as Hot as their Neighbours in their <hi>own</hi> Concerns, yet 'tis ordinary with many of them, to paſs ſly Reflexions upon all Reli<g ref="char:EOLhyphen"/>gious Zeal. But why Zeal ſhould not <hi>beſt</hi> become a Cauſe, wherein the Honour of Almighty God is moſt highly concerned, and our Country-Mens Happineſs in the World to come, and <hi>this</hi> World too, they are too Wiſe to offer at a Reaſon.</p>
+            <p>But they'll Object, That the <hi>Ill-timeing</hi> of a good thing will make it Chargeable with Indiſcretion. And who knows not this? But how
+<pb facs="tcp:32960:3"/> can Zeal for ſo good a thing as the Reformation of our Manners, be ever <hi>Ill-timed?</hi> What is Abſolutely neceſſary, 'tis impoſſible ſhould be ſet about <g ref="char:V">Ʋ</g>nſeaſonably And it Argues a mighty Diſtruſt of the Divine Providence, to fear, from the Angering of the Vicious Part of the Kingdom, any Evil that can be greater, than the Good of ſup<g ref="char:EOLhyphen"/>preſſing Vice, or ſo great. Nay, this ſavours of downright Infidelity and Irreligion. Nor ſeems it much <hi>leſs</hi> Culpable to think, That the diſobliging of Wicked Men will be a weakning of this Government. For 'tis ſo far from being true that <hi>the Governments giving all poſſible Diſcouragement to Vice</hi> may be a Means to endanger it, that nothing can conduce more to the ſtrengthening and ſecuring thereof, nor ſo much neither; and that <hi>naturally,</hi> as well as through the Bleſſing of God Almighty. Honeſt <hi>Tully</hi> hath told us as much as this comes to. The Offence which profane and vicious Men may take at the Government, is a meer <hi>Scare-Crow;</hi> For ſo long as they ſee it for their <hi>Intereſt</hi> to Adhere to it, there is no Fear but they
+<hi>will;</hi> and they'll put on a ſhew of being Reformed, nay and Ape a
+<hi>Zeal</hi> too for Reformation, rather than hazard their Preferments under it, or their Prince's Fa<g ref="char:EOLhyphen"/>vour: And 'tis certain that the Government can be ſecure of <hi>ſuch</hi> no <hi>longer</hi> than their <hi>Intereſt</hi> holds them faſt to it, tho' their Vices ſhould be never ſo much connived at. But it hath been much obſerved both in City &amp; Country, that thoſe whoſe Converſations are none of the ſtricteſt, did yet upon this Execution of the Laws with ſome Briskneſs, expreſs great <hi>liking</hi> of it, in hopes of having for the future, their Children and Servants under
+<hi>better</hi> Government. And the Truth is, the Height of Viciouſneſs, to which the Youth of this Nation, and eſpecially of this City, are arrived, is a moſt Melancholly Subject to reflect upon; but not to be <hi>Wondred</hi> at any more, than that bad <hi>Ex<g ref="char:EOLhyphen"/>amples</hi> ſhould be more powerful than good
+<hi>Precepts.</hi> And this preſents us with as ſad a Proſpect, of the Age's being ſtill <hi>more</hi> and <hi>more</hi> Corrupted, and of the
+<hi>next</hi> Ages proving <hi>worſe</hi> than <hi>this,</hi> if
+<hi>more</hi> Time ſhould be lost, and the ſetting in great earneſt on the Work of Reformation be longer delayed. And I need not add, that the longer it is ſo, the Work will every Year be the more difficult.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:32960:3"/>
+            <head>A Vindication OF AN <hi>Undertaking of Certain Gentlemen,</hi> &amp;c.</head>
+            <p>THE moſt deplorable Degeneracy of this Nation in its Morals, occaſioned by the Encouragement, which for many years together, (for a well-known Reaſon) was given to Vice, raiſed in the minds of ſerious People, very ſtrong Apprehenſions of approaching Judgments; and accor<g ref="char:EOLhyphen"/>dingly very great ones came down upon us; and <hi>Two</hi> ſuch, as no Age hath parallell'd in theſe Kingdoms, within a few years after the Return of King <hi>Charles.</hi> But thoſe having produced nothing of Reformation, they were followed with others from time to time; and theſe likewiſe being loſt upon us, at length we had all the rea<g ref="char:EOLhyphen"/>ſon in the World to look for the heavieſt Calamities that could be<g ref="char:EOLhyphen"/>fal us, <hi>viz. <hi>Popery</hi>
+               </hi> and
+<hi>Slavery;</hi> but when theſe were at the door and juſt entring, ſo infinitely Merciful was He to us, <hi>Whoſe ways are not as our ways, nor whoſe thoughts as ours,</hi> as ſtrangely to ſurprize us with a happy Deliverance.</p>
+            <p>And the bleſſed Inſtrument thereof, with His moſt Virtuous Con<g ref="char:EOLhyphen"/>ſort, being by God's wonderful Providence plac'd on the Throne, never were ſo great Hopes conceived as <hi>now,</hi> of an effectual Re<g ref="char:EOLhyphen"/>formation,</p>
+            <p>But alas, in a ſhort time it was too apparent, that this Delive<g ref="char:EOLhyphen"/>rance <pb n="6" facs="tcp:32960:4"/> came too ſoon, to be much valued by ſuch a People, as ge<g ref="char:EOLhyphen"/>nerally <hi>We</hi> were. It found us miſerably unqualified to receive it, and the Returns we have made to the Divine Goodneſs for it, ſpeak us no leſs unworthy of the continuance of it. For neither hath the Firſt Part of the Deliverance, nor the many amazing things God Almighty hath ſince done, both at home and abroad, towards the perfecting and ſecuring thereof, had any <hi>viſible</hi> good Effect upon us. But thoſe Vices which before reigned, and cryed to Heaven for Vengeance, do reign ſtill as much as ever; and thoſe who were <hi>filthy before,</hi> let God uſe never ſo powerful Means for the cleanſing of them, <hi>will be filthy ſtill;</hi> as if, to ſpeak in the Prophets Language, <hi>They had made a Covenant with Death, and were at an Agreement with Hell.</hi>
+            </p>
+            <p>And whereas we have very good Laws for the ſuppreſſing of Vice, I will not ſay how very few have hitherto ſhewed, any thing of Zeal or an hearty Concern (notwithſtanding the higheſt Obli<g ref="char:EOLhyphen"/>gation) for the Execution of them: Nor from how many nothing is to be expected, but an extream Averſneſs to a Reformation.</p>
+            <p>But to come to the Buſineſs of theſe Papers: Certain pious Gentle<g ref="char:EOLhyphen"/>men, all of the Church of <hi>England,</hi> laying greatly to heart
+<hi>theſe</hi> things, reſolved to make Tryal, whether any thing could be done, towards the giving a Check to <hi>Debauchery</hi> and
+<hi>Profaneneſs;</hi> and joyntly agreed upon this following Method for the Reforming of Offenders in thoſe <hi>Two</hi> moſt ſcandalous Inſtances, by due Courſe of Law, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> To endeavour the procuring of a Letter from the Queen (the King being then abſent) to the Juſtices of the Peace for the Coun<g ref="char:EOLhyphen"/>ty of <hi>Middleſex,</hi> requiring them to put the Laws in Execution againſt <hi>Drunkenneſs, <g ref="char:V">Ʋ</g>ncleanneſs, Swearing, Curſing, Profanation of the Lords Day,</hi> &amp;c.</p>
+            <p>
+               <hi>Secondly,</hi> To endeavour the obtaining a <hi>good Order of Seſſions</hi> to be made thereon. And Her Majeſty having (like Her ſelf) moſt chear<g ref="char:EOLhyphen"/>fully <pb n="7" facs="tcp:32960:4"/> granted the humble Requeſt of the Lord Biſhop of <hi>Worceſter,</hi> for ſuch a Letter; and having accordingly ſent a very pious and preſſing one to thoſe Juſtices; and the Juſtices having thereupon publiſh't an exceeding good Order, Theſe Gentlemen, encouraged with this good Succeſs;</p>
+            <p>
+               <hi>Thirdly,</hi> Made it their Requeſt to many of their Acquaintance, whom they knew to be Sober and Religious Perſons, to give Infor<g ref="char:EOLhyphen"/>mation to ſome Juſtice of the Peace, of all Offences of the foremen<g ref="char:EOLhyphen"/>tioned Nature, which they ſhould obſerve to be committed; as by the
+<hi>Order of Seſſions</hi> they are encouraged to do.</p>
+            <p>And that all poſſible Eaſe might be given to the
+<hi>Informers,</hi> the <hi>Juſtices,</hi> and their <hi>Clerks:</hi>
+            </p>
+            <p n="1">1. They Printed Blank-Warrants againſt the ſeveral Offences.</p>
+            <p n="2">2. They procured divers Perſons (to the Number of Eighteen or Twenty) inhabiting in convenient places of the City and Suburbs, to fill up ſuch Warrants, as the Caſe ſhould happen to be; for the Informers, who ſhould carry the ſame to the Juſtice; by which means he would have nothing more to do, but to Examine them upon Oath, and Sign and Seal the ſaid Warrants. And,</p>
+            <p n="3">3. To eaſe the Juſtices Servant of the trouble of carrying every Warrant to the proper Officer, the Informer was to take his Warrant back with him to the Perſon who filled it up; from whom there was care taken to have it received &amp; executed; as will appear preſently.</p>
+            <p>That the Penalties might be duly applyed to the uſe of the Poor, and not imbezel'd by the Conſtables or Church-wardens, they took this Method.</p>
+            <p n="1">1. They directed every Perſon who filled up the Warrants, to keep an Account or Regiſter of the ſeveral Offenders Names, the Offence of each, the Time <hi>when,</hi> and Place <hi>where</hi> each Offence was com<g ref="char:EOLhyphen"/>mitted: <pb n="8" facs="tcp:32960:5"/> And, when the Informer had brought him back the War<g ref="char:EOLhyphen"/>rant, to inſert alſo the Name of the Magiſtrate, before whom each Conviction was made;</p>
+            <p n="2">2. They appointed a ſpecial Meſſenger, and paid him well for his pains, to Collect all the ſaid Warrants and Regiſters weekly; and, after they were ſorted, to carry them out again to the proper Offi<g ref="char:EOLhyphen"/>cers of the ſeveral Pariſhes where they were to be executed; and to inſert the Names of the ſeveral Conſtables, to whom each of the ſaid Warrants ſhould be delivered, in the ſaid Regiſters.</p>
+            <p n="3">3. They prepared an Abſtract of theſe Regiſters, to be preſented to the Juſtices at their <hi>Petty-Seſſions,</hi> for the enabling them to call e<g ref="char:EOLhyphen"/>very Conſtable to an Account, how he had executed the ſeveral War<g ref="char:EOLhyphen"/>rants he was Charged with in that Regiſter; and to what Church-warden he had payd the Penalties by him levyed.</p>
+            <p n="4">4. A ſhort Account was to be taken out of all thoſe Abſtracts, by which to Charge the ſeveral Church-wardens, at the making up of their Accounts with all the Money by them received on thoſe War<g ref="char:EOLhyphen"/>rants, in order to their ſending it to the ſeveral <hi>Veſtries</hi> once a Year.</p>
+            <p>And laſtly, To awaken all good Chriſtians throughout the King<g ref="char:EOLhyphen"/>dom, Whether Magiſtrates or private Perſons, to a vigorous endea<g ref="char:EOLhyphen"/>vour for a Reformation of Manners, They ſet the good Example of the Juſtices of
+<hi>Middleſex,</hi> and the following <hi>as good a one,</hi> of the Lord Mayor of <hi>London,</hi> and Court of Aldermen, before the reſt of the Nation. For which purpoſe they cauſed the Orders of the ſaid Seſſions and Court, to be Printed in a ſmaller Character; and of <hi>theſe</hi> they ſent ſeveral Thouſands throughout the Kingdom, <hi>viz.</hi> To moſt
+<hi>Parliament-Men, Mayors, Bayliffs, Justices of the Peace, Miniſters, Coffee-houſes,</hi> &amp;c. and the Printing and Poſtage too were wholly at their own Charge.</p>
+            <p>And, Thanks be to God, they quickly ſaw-extraordinary good Effects hereof, in the excellent Orders of the like nature, made by
+<pb n="9" facs="tcp:32960:5"/> the Cities of <hi>York,</hi> &amp;c. And by the Counties of
+<hi>Surrey, Hertford, Buckingham, Bedford, Suſſex, Glouceſter,</hi> the North-Riding of <hi>York<g ref="char:EOLhyphen"/>ſhire,</hi> and divers others, of which many have been printed.</p>
+            <p>And there was perceived in a little time very good Succeſs of their Endeavours at home, by the manifeſt ceaſing in a great meaſure of the Profanation of the Lords Day; and the Awe that appeared up<g ref="char:EOLhyphen"/>on many Common Swearers and Drunkards, who either felt, or had Notice of, the Execution of the Laws againſt ſuch Offenders.</p>
+            <p>But for as much as another ſort of Informers, who had been ſo buſie a few Years ſince, htah made that Name odious to inconſide<g ref="char:EOLhyphen"/>rate People; and that the reſtraining of Licenciouſneſs, is ever ex<g ref="char:EOLhyphen"/>treamly grievous to the Licencious, 'twas neceſſary that the Juſtice ſhould be deſired by the Informer to conceal his Name from the Of<g ref="char:EOLhyphen"/>fender: There having been too many Inſtances of late, not un<g ref="char:EOLhyphen"/>known to the Juſtices, of thoſe, who, inſtead of amending by the gentle Puniſhment of <hi>one</hi> Sin, have added <hi>more</hi> to it, by reeking their Revenge on ſuch as Informed againſt them, with great Barba<g ref="char:EOLhyphen"/>rity. I ſay the concealing the Informers Name, for <hi>this</hi> Reaſon, ought to be judged neceſſary; eſpecially when he is ready to appear, and prove the Fact to the Face of the Offender, in caſe he perſiſts in the denial of it. And Care was taken, that in <hi>this</hi> caſe the Informer ſhould adventure to appear, although the Law doth not oblige to it; as will be ſeen anon.</p>
+            <p>This is an exactly true, but imperfect Narrative of the undertak<g ref="char:EOLhyphen"/>ing of theſe Gentlemen; and is it poſſible it ſhould need a
+<hi>Vindicati<g ref="char:EOLhyphen"/>on?</hi> Who would not now wonder that ſuch a Word as
+<hi>this</hi> ſhould be ſeen in our <hi>Title-Page?</hi> For can there be a Nobler Deſign laid, than that which is directly and ſolely for the Advancement of the Publick Good? And is not <hi>that</hi> Good, which comprehends both the Spiritual and Temporal Intereſt of the Publick, the incomparably greateſt Publick Good? And is not he a <hi>Brnte</hi> who needs to be told, that <hi>the Reformation of Mankind,</hi> and <hi>Running down of Vice,</hi> is <hi>ſuch</hi> a Good as contains in it both theſe Intereſts? But <hi>this</hi> was the <hi>onely</hi> Deſign of this Undertaking. And it hath been ſhewed, that it was not limited to the Reformation of one <hi>City,</hi> or one <hi>County,</hi> but it ex<g ref="char:EOLhyphen"/>tended
+<pb n="10" facs="tcp:32960:6"/> to the whole <hi>Kingdom.</hi> And a due Countenance from thoſe who are principally obliged to encourage it, muſt needs cauſe it to have in time, an happy Influence upon both the <hi>other</hi> Kingdoms. And
+<hi>Then,</hi> how much farther in the World it may by Gods bleſſing reach,
+<hi>HE</hi> only knows.</p>
+            <p>Moreover, theſe Gentlemen were ſo far from deſigning to ſerve <hi>Themſelves</hi> by this <hi>Vndertaking,</hi> that, as they were not capable of getting one Penny for their pains, ſo they expended in the car<g ref="char:EOLhyphen"/>rying of it on, conſiderable Sums out of their own Purſes.</p>
+            <p>Nor can they with any Juſtice or Charity be cenſured, as deſign<g ref="char:EOLhyphen"/>ing the Applauſe of the Sober and Virtuous part of the Nation, (as highly as they deſerve it) for we are wholly beholden to their
+<hi>Ene<g ref="char:EOLhyphen"/>mies</hi> for our knowledge of ſo much as <hi>One</hi> of the Undertakers, or of the Undertaking it ſelf. And thoſe who received the Printed Or<g ref="char:EOLhyphen"/>ders all over the Kingdom, were perfectly Ignorant from whoſe hands they came.</p>
+            <p>And as to the foreſaid <hi>Method</hi> they agreed on, for the Managing of this Deſign, it as little needs a <hi>Vindication</hi> as the
+<hi>Deſign it ſelf;</hi> and is ſo far from being lyable to be taxed with Imprudence, that I (for my part) muſt needs profeſs, I greatly admire the Wiſdom of the Contrivance. I Challenge thoſe who dare to Reproach it, to ſhew <hi>Any</hi> Project better fitted for the Attainment of its End, than this throughout is. 'Tis ſcarce <hi>Civil</hi> to deſire them to Mend it
+<hi>Them<g ref="char:EOLhyphen"/>ſelves,</hi> ſince there is no Employment they can be more Averſe to.</p>
+            <p>In ſhort, 'tis a lamentable Inſtance of the Debauchery of the Age, That it is not a piece of great Impertinence to publiſh a Vindication of
+<hi>Such</hi> an <hi>Vndertaking.</hi> But ſo it is, That the Clamours of De<g ref="char:EOLhyphen"/>linquents, which, where they are readily received, ſhall never be wanting, ſerved for an Occaſion to <hi>Certain Gentlemen,</hi> whoſe <hi>Own</hi> Converſations will not ſuffer them to be reconciled to the thoughts of a General Reformation, to Calumniate it, with the Perſons con<g ref="char:EOLhyphen"/>cerned in it; and to do their utmoſt to Overthrow it. All the Tales of puniſh'd Ale-Houſe-keepers and other Criminals, were by <hi>Them</hi> immediately received as <hi>Goſpel,</hi> when told by ſuch diſ-intereſſed and unbyaſt people; and hereupon they fall to Work. And no Won<g ref="char:EOLhyphen"/>der,
+<pb n="11" facs="tcp:32960:6" rendition="simple:additions"/> for if the Prince of <hi>Darkneſs</hi> had not
+<hi>Now</hi> beſtirr'd himſelf, to Baffle a Deſign ſo directly levelled againſt his Kingdom, this would doubtleſs have been the very
+<hi>Firſt</hi> time of his being unconcern'd up<g ref="char:EOLhyphen"/>on ſuch an Occaſion.</p>
+            <p>And <hi>Firſt</hi> theſe Perſons ſatisfied themſelves a while with playing at <hi>Small Game;</hi> and among other moſt Notorious Untruths, they gave it out with great aſſurance, That there was a wonderfully gain<g ref="char:EOLhyphen"/>ful Office lately ſet up in <hi>Lincolns Inn,</hi> where Hundreds of Pounds were already gotten by the Erecters of it. And what great pity is it, provided the <hi>Tempting Wages</hi> could have reconciled them to ſuch <hi>Loathſom Work,</hi> that <hi>Themſelves</hi> had no intereſt in the Stock going there? By my conſent, they ſhould have had Shares
+<hi>Gratis</hi> upon that condition; nay, could they have been hired thereby not to <hi>Hinder</hi> Buſineſs, the Founders of the Office ſhould have done all the Drudge<g ref="char:EOLhyphen"/>ry, and <hi>They</hi> ſhould have all the Gains, but that the <hi>Poor</hi> ran away with every Farthing.</p>
+            <p>And, by the way, the Informers too who were engaged in this Undertaking, refuſed to receive a penny of the Penalties in thoſe Caſes wherein the Law alloweth them the <hi>Third</hi> part. They deſi<g ref="char:EOLhyphen"/>red no other Reward for ſo good a Work, than what they are ſure to have in the
+<hi>Other</hi> World, and would have only their <hi>Labour for their Pains</hi> in <hi>This.</hi>
+            </p>
+            <p>And when it appeared to every body by the <hi>Form</hi> of the Warrants, that the Conſtables were to pay the Money they had Levyed upon Offenders, to the Church-Wardens, for the uſe of the Poor, the fore<g ref="char:EOLhyphen"/>ſaid perſons found that a <hi>Lye</hi> could do them very little Service, which was every whit as eaſily <hi>detected</hi> as <hi>told.</hi>
+            </p>
+            <p>And now from Talking they proceed to Action, and 'tis well known how the <hi>Firſt</hi> Blow was given to this Undertaking; though ſeveral Worthy Juſtices of the <hi>Peace,</hi> to their Honour be it ſpoken, heartily interpoſed for the prevention of it.</p>
+            <p>In order to it, they in the firſt place fell very heavily on Mr.
+<hi>Hart<g ref="char:EOLhyphen"/>ley,</hi> a virtuous perſon, who had given as a Juſtice, all poſſible en<g ref="char:EOLhyphen"/>couragement to this Beſt of Works. He was loaded with diverſe Accuſations of Injuſtice in his <hi>Proceedings;</hi> and thoſe on which the greateſt Weight was laid, were the <hi>Two</hi> following, wh<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <pb n="12" facs="tcp:32960:7"/> Reader may judge of the reſt. And perhaps they were both <hi>True</hi> as to matter of Fact, whatever they were as to their Faul<g ref="char:EOLhyphen"/>tineſs.</p>
+            <p>One was, That in one of his Warrants the Name of the Landlord of an Ale Houſe was inſerted inſtead of the Tenant's who kept the Houſe.</p>
+            <p>The other, That in another Warrant a Woman was called by the Name of her dead Husband, after ſhe was again Married.</p>
+            <p>Now as to the <hi>Former,</hi> it is ſaid, That the Landlord alſo liv'd in the Houſe; ſo that 'twas unknown to many which of them was Ma<g ref="char:EOLhyphen"/>ſter of it: However, the Houſe was aſcertained in the Warrant, and the Offence againſt the Law, there committed, poſitively Sworn to</p>
+            <p>And as to the <hi>Latter,</hi> 'Tis ordinary among the meaner ſort, to call Women, at leaſt for ſome time after their ſecond Marriages, by the Names of their former Husbands: And thoſe who had not heard of the Husbands death, might without any great Offence preſume him to be ſtill Living. Nor was it neceſſary that all who knew of his Death, ſhould know that his Widow was a Wife again.</p>
+            <p>Theſe are the only Objections which we find particularly aſſign'd againſt Mr. <hi>Hartley</hi>'s proceedings, and therefore Unpardonable Faults no doubt! But the beſt of it is, they were the
+<hi>Informer's</hi> not the <hi>Juſtice's.</hi> But can any one of thoſe who have made ſuch ado with theſe two Trifles, make any body believe that
+<hi>His</hi> Juſticeſhip (if he be in Commiſſion) was never ſo impoſed on? He hath had very little Cuſtom, or very great Luck, if it never was. But old <hi>Aeſop</hi> hath helpt us to a true Proverb: <hi>It is an eaſie thing to find a Staff to beat a Dog.</hi> But ſuppoſe theſe
+<hi>Two</hi> were Culpable Miſtakes, for want of due Caution, as thoſe who have made ſuch mighty matters of them, can't think them ſo in the
+<hi>Juſtice,</hi> and ſcarcely in the <hi>In<g ref="char:EOLhyphen"/>formers:</hi> I wiſh they would ſeriouſly conſider, what means that Queſtion of our Bleſſed Saviour; <hi>Why beholdeſt thou the Mote which is in thy Brothers Eye, and perceiveſt not the Bean that is in thine Own Eye?</hi> O how happy would it be for, eſpecially ſome of <hi>Them,</hi> were <hi>They</hi> chargeable with no worſe Miſtakes, or lay they under the ſcandal of nothing worſe than Miſtakes!</p>
+            <p>Such <hi>Little</hi> things as <hi>Theſe,</hi> and which are as ſoon rectified as per<g ref="char:EOLhyphen"/>ceived, <pb n="13" facs="tcp:32960:7"/> would be eaſily over-look't for the ſake of the Great<g ref="char:EOLhyphen"/>neſs and Nobleneſs of the Undertaking, by all ſuch as heartily deſire a Reformation; nay, by thoſe who are but able to bear the thoughts of it: Nay, one would think too, by thoſe who, though they would fain have none, have ſo much Modeſty remaining, as to be aſhamed <hi>Openly</hi> to Oppoſe it. Which ſure none can have the impious Bravery to do, but ſuch as would make a true Story of the Fiction of the <hi>Giants,</hi> by deſignedly fighting againſt GOD Himſelf, if they believe there is one. And as it is eminently <hi>HIS</hi> Cauſe in which theſe Pious Gentlemen engaged themſelves; ſo no Chriſtian can doubt, nor ſcarce a hearty Theiſt, whether God hath a
+<hi>Special</hi> Hand in all Undertakings of this nature; nor whether thoſe who are employed in them are HIS <hi>Inſtruments; Called, Spirited</hi> and
+<hi>Aſſiſted</hi> by Him: I mean on ſuppoſition, that they carry on their Work by Lawful means, and tranſgreſs not the Bounds of thoſe Stations in which Providence hath placed them. But <hi>Malice</hi> it ſelf may be defied to ſhew any one Inſtance, where<g ref="char:EOLhyphen"/>in theſe perſons (the Undertakers I mean) have not ſtrictly kept to the obſervance of
+<hi>Humane,</hi> as well as the <hi>Divine</hi> Laws; or acted out of their own Sphere.</p>
+            <p>It is evident by the foreſaid Narrative, that there was nothing in their Undertaking, but what they had at leaſt <hi>Liberty</hi> from our Laws to do, nay, a <hi>Commiſſion</hi> (I mean a general one) from
+<hi>GOD</hi> to do; and the Queens Commiſſion too, may be eaſily made out of Her Majeſties moſt Gracious Letter, for what they have done; could they ſtand in any need of it.</p>
+            <p>As to any particular Objections againſt any part of the Pro<g ref="char:EOLhyphen"/>ceedings of either the Undertakers or the Informers, the World will quickly be ſatisfied by a better hand, that they are both tri<g ref="char:EOLhyphen"/>fling and falſe; and therefore I will wholly wave them. Mr. <hi>Hart<g ref="char:EOLhyphen"/>ley</hi> will be alſo Vindicated from the other Objections made againſt him in the Execution of his Office; but I cannot forbear to touch upon <hi>Two</hi> more of
+<hi>Theſe.</hi>
+            </p>
+            <p>One was, That he play'd the <hi>Buſy-Body</hi> in Acting out of his own <hi>Diviſion.</hi> And 'tis true, that he did <hi>So</hi> act, but not that he was a <pb n="14" facs="tcp:32960:8"/> 
+               <hi>Buſy-Body</hi> in ſo doing. For, as he did it not but when 'twas <hi>Ne<g ref="char:EOLhyphen"/>ceſſary,</hi> ſo he had expreſly Violated his Juſtices Oath, if he had re<g ref="char:EOLhyphen"/>fuſed it.</p>
+            <p>The <hi>Other</hi> was, his Convicting Offenders, without bringing
+<hi>Them</hi> and their <hi>Accuſers</hi> face to face. Now, beſides what hath been ſaid to <hi>This</hi> already, which ſhews the neceſſity of his frequently ſo do<g ref="char:EOLhyphen"/>ing, ſo the Law ought not to be underſtood as being againſt it: For the ſame <hi>Magna Charta</hi> which ſaith, That <hi>No man ſhall be Con<g ref="char:EOLhyphen"/>demned <g ref="char:V">Ʋ</g>nheard;</hi> ſaith alſo, That <hi>No man ſhall be diſſeized of his Goods or Life, but by a Tryal per Pares,</hi> that is, by a Jury of Twelve Men; and if in This an Act of Parliament hath diſpenſed as to <hi>Goods,</hi> by impowering one Juſtice to Convict and to Levy by Di<g ref="char:EOLhyphen"/>ſtreſs, it may well be conſtrued ſo to do in the
+<hi>Former</hi> Clauſe; eſpecially when there is no proportion between the Crime and the Puniſhment: I mean, when the Crime is very <hi>Great,</hi> and the Puniſhment as <hi>Little;</hi> and <hi>This</hi> not to be inflicted but by a ſo<g ref="char:EOLhyphen"/>lemn Conviction upon the Oath of a Credible perſon, and in ſome caſes of <hi>Two;</hi> and the Oaths likewiſe of ſuch, as get not one Far<g ref="char:EOLhyphen"/>thing of the Penalty.</p>
+            <p>This is as much as we deſign to ſay, relating to the
+<hi>Firſt</hi> Blow that was given to this Undertaking. A <hi>Second</hi> ſoon followed it, and this proved a <hi>Smart</hi> one. And Gods will be done, if there is no remedy to be had. But there is little likelihood of
+<hi>Any,</hi> ſhould Good Men be ſo ſheepiſh, as to conceal, or only vent to one ano<g ref="char:EOLhyphen"/>ther, their ſorrowful Reſentment of fierce Oppoſitions to Reforma<g ref="char:EOLhyphen"/>tion, and ſuch an open Contempt as is now caſt upon the beſt of Queens, in diſcountenancing a Deſign ſo well adapted to the pro<g ref="char:EOLhyphen"/>moting of the Buſineſs of her Excellent Letter; and of the great Encouragement given to Licencious publick Houſes;<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ops
+<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ent
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> of ſeveral in<g ref="char:EOLhyphen"/>ſtances of which, diverſe <hi>Biſhops,</hi> to their no ſmall Trouble, have been Ear-Witneſſes.</p>
+            <p>There is an Objection which hath been too often made againſt the Reſtraining of ſuch Houſes, <hi>viz.</hi> That their Majeſties
+<hi>Exciſe</hi> will be greatly Leſſened by this means. But who is able to think it can be Grateful to ſuch a King and Queen as we are now Bleſs't with, <pb n="15" facs="tcp:32960:8"/> to have Their Revenue enlarged by the Sins of Their People? Who can be Ignorant, that there is nothing they would more A<g ref="char:EOLhyphen"/>bominate? Or that their Majeſties do not need to be told, that their Revenue muſt moſt certainly be exceedingly diminiſhed by the <hi>Po<g ref="char:EOLhyphen"/>verty</hi> of their Subjects; And nothing is more obſerved, than that that Multitudes of them do every year bring Themſelves and Fa<g ref="char:EOLhyphen"/>milies to a Morſel of Bread, by being permitted ſo much Drink; expreſly contrary to our Laws, which lay great Reſtraints upon Drinking-houſes, and Drinkers in them; not only on Sundays, but the Week-dayes too.</p>
+            <p>Poſſibly ſome may object againſt the Matter of theſe Pages, <hi>that</hi> Advice of the Poet:</p>
+            <q>
+               <lg>
+                  <l>Dum Furor in curſu eſt, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>When you ſee Fury ride full ſpeed,</l>
+                  <l>Get out o'th' way of Fury's Steed.</l>
+               </lg>
+            </q>
+            <p>And cenſure it as too Heady an Act, now Vice is ſo Rampant,
+<hi>thus</hi> to expoſe our ſelves to the Rage of the Vicious.</p>
+            <p>But it may be replyed, That whoſoever is heartily concerned at Vice's being now ſo Rampant, muſt have the Soul of a <hi>Nit,</hi> if he fears looking it in the Face in ſuch a Reign as <hi>this.</hi> If he be more afraid of Debauchees and Profane Perſons in King <hi>William</hi>'s and Q.
+<hi>Mary</hi>'s Reign, than many were of Papiſts and Jeſuites in King
+<hi>James</hi>'s. Or apprehends more danger in Attacquing thoſe <hi>now,</hi> than theſe <hi>then,</hi> without the Leave of a Licenſer.</p>
+            <p>And as to the <hi>Governments</hi> having any Reaſon to be afraid of provoking them, I add to what is ſaid in the <hi>Preface,</hi> that Vice is a Daſtardly Cow-hearted, thing, and always ſneaks when bravely born up to; having nothing to plead in its own Defence. But could vicious Men invent any thing to ſay for themſelves, they are ſtill
+<hi>ſelf-condemned.</hi> Their Vices alſo make them too ſoft and effe<g ref="char:EOLhyphen"/>minate, to carry on with any Vigour a dangerous Deſign. Nor can they confide in one another, in laying a Conſpiracy, as having no Principle to ſecure Fidelity: So that there is not the leaſt Fear of
+<pb n="16" facs="tcp:32960:9" rendition="simple:additions"/> their being too hard for the ſober part of the Nation; of which I hope there are an Hundred to one on the ſide of the Government.</p>
+            <p>Were thoſe who bear an implacable Enmity to any thing of Re<g ref="char:EOLhyphen"/>formation, onely injurious to <hi>their own</hi> Souls, the Charity we have for them, might have forbidden us to be ſilent, upon ſuch an occaſi<g ref="char:EOLhyphen"/>on as is now given us; much leſs then can we have any Tempta<g ref="char:EOLhyphen"/>tion to be ſhy of Offending them, when we conſider how ex<g ref="char:EOLhyphen"/>treamly the Publick, and Their Majeſties Great Affairs have ſuffe<g ref="char:EOLhyphen"/>red by them, and are ſtill like to ſuffer; and what heavy Judg<g ref="char:EOLhyphen"/>ments ought to be expected from a moſt highly Provoked God, for the Toleration of ſo much Wickedneſs, after as great Obligati<g ref="char:EOLhyphen"/>ons as ever were laid upon a Nation.</p>
+            <p>
+               <hi>Now</hi> the <hi>Third</hi> Time draws on a pace, when He, who is <hi>the Light of our Eyes, and the Breath of our Noſtrile,</hi> deſigns to ex<g ref="char:EOLhyphen"/>poſe his Sacred Perſon for our Safety, and the Well-fare of all Chriſtendom, to ſuch Dangers as nothing but the Courage of a Matchleſs Heroe could encounter: And therefore 'tis <hi>more</hi> than time, that a more effectual Courſe than ever be taken to run down thoſe Enemies at home (our Reigning Sins) which may do, thro' God's juſt Judgment, our Potent Enemy abroad more Service, than all the Preparations he hath made againſt us. And in Order there<g ref="char:EOLhyphen"/>unto, to take all poſſible Care, that none be intruſted with the Bu<g ref="char:EOLhyphen"/>ſineſs of Reforming <hi>others,</hi> who need as much as
+<hi>any</hi> to be Reform<g ref="char:EOLhyphen"/>ed <hi>themſelves.</hi> As alſo to give all Encouragement to thoſe, whoſe hearts God hath inclined to give their Helping Hand to a Work of ſuch Abſolute Neceſſity. We may be much afraid to think of the King's again leaving us, before this be done, or at leaſt a doing.</p>
+         </div>
+         <div type="postscript">
+            <head>POST-SCRIPT.</head>
+            <p>ANd, Thanks be to <hi>GOD,</hi> and Their Majeſties, ſince this was written comes the happy News, of this Work's being again encouraged, by a moſt pious Proclamation, and that ſince follow'd by a conſiderable Alteration in the Commiſſion of the Peace for <hi>Middleſex</hi> and
+<hi>Weſtminſter,</hi> by Her Majeſties ſpecial Command; wherein are placed moſt of thoſe Gentlemen, who are lately be<g ref="char:EOLhyphen"/>come known to have been concerned in this Noble Undertaking: And I pray God the Succeſs of it may be Anſwerable to Her Ma<g ref="char:EOLhyphen"/>jeſties pious Deſign.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32960:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
